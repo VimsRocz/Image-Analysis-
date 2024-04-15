@@ -1,16 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# 
-
-# # Image analysis 1 ()
-# ## Lab 1: Pre-processing
-
-# | Group __25__ | Name  | Matr.-nr. |
-# |-|-|-|
-# |   Member 1  | Vimal Chawda | 10025862 |
-# |   Member 2  | 
-# |   Member 3  | name3 | 12345 |
 
 # Required __imports__ for this lab. Don't forget to run the following cell (which may __take up some minutes__ because some functions are getting compiled).
 
